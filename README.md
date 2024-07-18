@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native, Angular JS**
 
-- 💬 Ask me about **Web API**
+- 💬 Ask me about **Web API** & **ASP.NET MVC Framework**
 
 - 📫 How to reach me **gizerol@hotmail.com**
 
