@@ -15,6 +15,18 @@
 
 - ⚡ Fun fact **I'm passionate about learning new things.I'm a responsible and punctual person.**
 
+- 🏢 Internships
+
+### SASA POLYESTER SANAYI A.Ş - Intern
+- Worked on Stock Tracking System Project
+- Technologies used: SQL Server Express 2019 & SQL Server Management Studio (SSMS) & Visual Studio Community 2022
+- Duration: 01.07.2024 to 29.07.2024
+
+### POLO YAZILIM - Volunteer Intern
+- Assisted with How APIs work & Flutter Mobile App Development 
+- Technologies used: Android Studio (Flutter/Dart) & SQL Server Express 2019 & SQL Server Management Studio (SSMS) & Visual Studio Community 2022 (WebAPI)
+- Duration: 01.07.2023 to 30.09.2023 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gizem-erol-866664252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gizem-erol-866664252" height="30" width="40" /></a>
