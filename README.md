@@ -27,6 +27,10 @@
 - **Technologies used:** Android Studio (Flutter/Dart) & SQL Server Express 2019 & SQL Server Management Studio (SSMS) & Visual Studio Community 2022 (WebAPI)
 - 📆 01.07.2023 to 30.09.2023 
 
+## 🎖️ Achievements
+
+### Performance Award from Teknofest International Unmanned Aerial Vehicles Competition '24
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gizem-erol-866664252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gizem-erol-866664252" height="30" width="40" /></a>
