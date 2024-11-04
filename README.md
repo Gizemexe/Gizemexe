@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I'm passionate about learning new things.I'm a responsible and punctual person.**
 
+- 🖱️ Check out **[Kaan Technology](https://www.kaanteknoloji.com/)**
+
 ## 🏢 Internships
 
 ### SASA POLYESTER SANAYI A.Ş - Intern
