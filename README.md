@@ -5,9 +5,9 @@
 
 - 📖 I'm 4th class Computer Engineering Student
 
-- 🔭 I’m currently working on **E-commerce mobile application for drone delivery**
+- 🔭 I’m currently working on **Machine Learning Project on Flight Route Optimization** & **Graduation Project**
 
-- 🌱 I’m currently learning **React Native, Angular JS**
+- 🌱 I’m currently interested in **Machine Learning**
 
 - 💬 Ask me about **Web API** & **ASP.NET MVC Framework**
 
@@ -28,6 +28,8 @@
 - **Assisted with** How APIs work & Flutter Mobile App Development 
 - **Technologies used:** Android Studio (Flutter/Dart) & SQL Server Express 2019 & SQL Server Management Studio (SSMS) & Visual Studio Community 2022 (WebAPI)
 - 📆 01.07.2023 to 30.09.2023 
+
+### Freelancer 
 
 ## 🎖️ Achievements
 
