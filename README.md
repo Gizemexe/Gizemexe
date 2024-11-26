@@ -34,6 +34,7 @@
 ## 🎖️ Achievements
 
 ### Performance Award from Teknofest International Unmanned Aerial Vehicles Competition '24
+### 1st Place Award from International METU VTOL Aircraft Competition '24
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
