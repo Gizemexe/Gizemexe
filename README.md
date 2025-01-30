@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently interested in **Machine Learning**
 
-- 💬 Ask me about **Web API** & **ASP.NET MVC Framework**
+- 💬 Ask me about **Web API** & **ASP.NET MVC Framework** & **Flutter**
 
 - 📫 How to reach me **gizerol@hotmail.com**
 
@@ -30,11 +30,12 @@
 - 📆 01.07.2023 to 30.09.2023 
 
 ### Freelancer 
+- *Website* & *mobile app developer*
 
 ## 🎖️ Achievements
 
-### Performance Award from Teknofest International Unmanned Aerial Vehicles Competition '24
-### 1st Place Award from International METU VTOL Aircraft Competition '24
+### 🏅 Performance Award from Teknofest International Unmanned Aerial Vehicles Competition '24
+### 🥇 1st Place Award from International METU VTOL Aircraft Competition '24
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
