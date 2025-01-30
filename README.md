@@ -51,4 +51,4 @@
 
 ![Gizemexe's Stats](https://github-readme-stats.vercel.app/api?username=Gizemexe&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gizemexe&" alt="gizemexe" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gizemexe" alt="gizemexe" /></p> 
