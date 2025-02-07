@@ -5,7 +5,7 @@
 
 - 📖 I'm 4th class Computer Engineering Student
 
-- 🔭 I’m currently working on **Machine Learning Project on Flight Route Optimization** & **Graduation Project**
+- 🔭 I’m currently working on **Machine Learning Project on Flight Route Optimization** & **3D Map Visualization with LIDAR technology and SLAM Algorithm**
 
 - 🌱 I’m currently interested in **Machine Learning**
 
