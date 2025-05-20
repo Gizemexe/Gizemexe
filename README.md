@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **3D Map Visualization with LIDAR technology and SLAM Algorithm**
 
-- 🌱 I’m currently interested in **Machine Learning**
+- 🌱 I’m currently interested in **Machine Learning** & **ROS**
 
 - 💬 Ask me about **Web API** & **ASP.NET MVC Framework** & **Flutter**
 
