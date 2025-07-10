@@ -91,6 +91,11 @@
 </p>
 
 ---
+### 📔 Have a look at some of my projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gizemexe&repo=GraduationProject&theme=tokyonight)]([https://github.com/Gizemexe/Gizemexe](https://github.com/Gizemexe/GraduationProject))
+
+---
 <p align="center">
   <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
 </p>
+
