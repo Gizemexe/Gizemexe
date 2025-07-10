@@ -75,7 +75,7 @@
 ### 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Gizemexe&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Gizemexe's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Gizemexe&theme=tokyonight&hide_border=true" width="50%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Gizemexe&theme=tokyonight&hide_border=true" width="65%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gizemexe&theme=tokyonight&hide_border=true&layout=compact" width="47%" />
 </p>
 
