@@ -1,57 +1,88 @@
-<h1 align="center">Hi 👋, I'm Gizem ✨</h1>
-<h3 align="center">A passionate frontend-backend developer from Turkey 🇹🇷</h3>
+<h1 align="center">✨ Hello World! I'm Gizem ✨</h1>
+<h3 align="center">💻 Full-Stack Developer | 🎯 Tech Explorer | 🚀 ML </h3>
 
-<img align="right" alt = "Coding" width="350" height="300" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
-
-- 📖 I'm Computer Engineer
-
-- 🔭 I’m currently working on **3D Map Visualization with LIDAR technology and SLAM Algorithm**
-
-- 🌱 I’m currently interested in **Machine Learning** & **ROS**
-
-- 💬 Ask me about **Web API** & **ASP.NET MVC Framework** & **Flutter**
-
-- 📫 How to reach me **gizerol@hotmail.com**
-
-- ⚡ Fun fact **I'm passionate about learning new things.I'm a responsible and punctual person.**
-
-
-## 🏢 Internships
-
-### SASA POLYESTER SANAYI A.Ş - Intern
-- **Worked on** Stock Tracking System Project
-- **Technologies used:** SQL Server Express 2019 & SQL Server Management Studio (SSMS) & Visual Studio Community 2022
-- 📆 01.07.2024 to 29.07.2024
-
-### POLO YAZILIM - Volunteer Intern
-- **Assisted with** How APIs work & Flutter Mobile App Development 
-- **Technologies used:** Android Studio (Flutter/Dart) & SQL Server Express 2019 & SQL Server Management Studio (SSMS) & Visual Studio Community 2022 (WebAPI)
-- 📆 01.07.2023 to 30.09.2023 
-
-### Freelancer 
-- *Website* & *mobile app developer*
-
-## 🎖️ Achievements
-
-### 🏅 Performance Award from Teknofest International Unmanned Aerial Vehicles Competition '24
-### 🥇 1st Place Award from International METU VTOL Aircraft Competition '24
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gizem-erol-866664252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gizem-erol-866664252" height="30" width="40" /></a>
-<a href="https://kaggle.com/gizemexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gizemexe" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/gizerol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gizerol" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gizemexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gizemexe" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="300" alt="Coding gif" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+### 👩‍💻 About Me
 
-##
-![](https://github-readme-stats.vercel.app/api?username=Gizemexe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gizemexe&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gizemexe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+- 🎓 I'm a **Computer Engineer** from Turkey 🇹🇷  
+- 🔭 Currently working on **3D Map Visualization with LIDAR** and **SLAM algorithms**  
+- 🌱 Passionate about **Machine Learning**, **ROS**, and **Autonomous Systems**  
+- 💬 Ask me about:  
+  `Web API`, `ASP.NET MVC`, `Flutter`, `LIDAR`, `FastAPI`  
+- 📫 Reach me at: **gizerol@hotmail.com**  
+- ⚡ Fun Fact: _"I love learning and creating things that matter. I believe in punctuality and responsibility."_
 
+---
+
+### 🏆 Achievements
+
+| 🥇 | **1st Place - International METU VTOL Aircraft Competition '24** |
+|----|------------------------------------------------------------------|
+| 🏅 | **Performance Award - Teknofest UAV Competition '24**           |
+
+---
+
+### 💼 Internships & Work
+
+#### 👨‍💼 SASA POLYESTER SANAYI A.Ş - Intern  
+🗓️ Jul 2024  
+📌 **Project:** Stock Tracking System  
+🛠️ **Tools:** SQL Server, SSMS, Visual Studio
+
+#### 👩‍💼 POLO YAZILIM - Volunteer Intern  
+🗓️ Jul - Sep 2023  
+📌 **Focus:** API Basics, Flutter Mobile App Development  
+🛠️ **Tools:** Flutter/Dart, SQL Server, SSMS, Web API
+
+#### 💻 Freelancer  
+📱 Developed multiple **websites** and **mobile applications** end-to-end.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks:**  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+
+**Dev Tools & Platforms:**  
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Extras:**  
+![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/gizem-erol-866664252"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kaggle.com/gizemexe"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/gizerol"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/gizemexe"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
+</p>
