@@ -25,9 +25,7 @@
 | 🥇 | **1st Place - International METU VTOL Aircraft Competition '24** |
 |----|------------------------------------------------------------------|
 | 🏅 | **Performance Award - Teknofest UAV Competition '24**           |
-|----|------------------------------------------------------------------|
 | 🏅 | **Performance Award - Teknofest UAV Competition '25**           |
-|----|------------------------------------------------------------------|
 | 🏅 | **Finalist - Teknofest Artificial intelligence in aviation '25** |
 
 ---
