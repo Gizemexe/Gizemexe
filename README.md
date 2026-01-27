@@ -30,18 +30,6 @@
 
 ---
 
-### 💼 Internships & Work
-
-#### 👨‍💼 SASA POLYESTER SANAYI A.Ş - Intern  
-🗓️ Jul 2024  
-📌 **Project:** Stock Tracking System  
-🛠️ **Tools:** SQL Server, SSMS, Visual Studio
-
-#### 👩‍💼 POLO YAZILIM - Volunteer Intern  
-🗓️ Jul - Sep 2023  
-📌 **Focus:** API Basics, Flutter Mobile App Development  
-🛠️ **Tools:** Flutter/Dart, SQL Server, SSMS, Web API
-
 #### 💻 Freelancer  
 📱 Developed multiple **websites** and **mobile applications** end-to-end.
 
