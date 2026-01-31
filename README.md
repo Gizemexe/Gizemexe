@@ -10,7 +10,8 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 I'm a **Computer Engineer** from Turkey 🇹🇷  
+- 🎓 I'm a **Computer Engineer** from Turkey 🇹🇷
+- 💼 Currently working at **Vodafone IT  department**   
 - 🔭 Currently working on **3D Map Visualization with LIDAR** and **SLAM algorithms**  
 - 🌱 Passionate about **Machine Learning**, **ROS**, and **Autonomous Systems**  
 - 💬 Ask me about:  
