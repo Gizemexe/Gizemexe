@@ -108,8 +108,7 @@
 
 <p align="center">
   <img height="150" src="https://github-stats-extended.vercel.app/api/pin?username=Gizemexe&repo=GraduationProject&theme=dark" alt="Graduation Project" /> &nbsp;&nbsp;
-  <img height="150" src="https://github-stats-extended.vercel.app/api/pin?username=Gizemexe&repo=FlaskWeb&theme=dark" alt="Flask Web API" />
-  <img height="150" src="https://github-stats-extended.vercel.app/api/pin?username=Gizemexe&repo=Emotions&theme=dark" alt="Emotions" /> 
+  
 </p>
 
 ---
