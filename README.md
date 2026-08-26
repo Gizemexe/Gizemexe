@@ -93,10 +93,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gizemexe&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gizemexe&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
+
+ [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Gizemexe)](https://github.com/stats-organization/github-stats-extended)
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Gizemexe&theme=tokyonight&hide_border=true" width="95%" />
