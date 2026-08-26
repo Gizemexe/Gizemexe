@@ -95,7 +95,7 @@
 
 <!-- Ana İstatistik Kartı -->
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Gizemexe" alt="Gizemexe's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Gizemexe&theme=dark" alt="Gizemexe's GitHub Stats" />
 </p>
 
 <!-- En Çok Kullanılan Diller -->
