@@ -93,22 +93,23 @@
 
 ### 📊 GitHub Stats
 
-
- [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Gizemexe)](https://github.com/stats-organization/github-stats-extended)
-
-
+<!-- Ana İstatistik Kartı -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gizemexe&theme=tokyonight&hide_border=true" width="95%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Gizemexe" alt="Gizemexe's GitHub Stats" />
 </p>
 
+<!-- En Çok Kullanılan Diller -->
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Gizemexe&langs_count=4&theme=dark" alt="Top Languages" />
+</p>
 ---
 
 ### 📔 Featured Project
 
 <p align="center">
-  <a href="https://github.com/Gizemexe/GraduationProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gizemexe&repo=GraduationProject&theme=tokyonight" />
-  </a>
+  <img height="150" src="https://github-stats-extended.vercel.app/api/pin?username=Gizemexe&repo=GraduationProject&theme=dark" alt="Graduation Project" /> &nbsp;&nbsp;
+  <img height="150" src="https://github-stats-extended.vercel.app/api/pin?username=Gizemexe&repo=FlaskWeb&theme=dark" alt="Flask Web API" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/pin?username=Gizemexe&repo=Emotions&theme=dark" alt="Emotions" />
 </p>
 
 ---
